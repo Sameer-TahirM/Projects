@@ -8,6 +8,8 @@ Click on any project title to explore its code, documentation, and results in mo
 
 ## 🚀 Featured Projects
 
+### 🚀 [Colorization of Black and White Images Using ResNet, UNet, and Pix2Pix GAN](https://github.com/Sameer-TahirM/Colorization_of_Black-White_Images-main.git)
+
 ### 🤖 [Automating Hidden Object Games with Object Detection](https://github.com/Sameer-TahirM/Automating-Hidden-Object-Games-with-Object-Detection.git)
 
 ### 🧩 [SIFT Panorama & Hough Transform Chess Game](https://github.com/Sameer-TahirM/Image-Stitching-using-SIFT-on-COIL-20-Dataset.git)
@@ -36,6 +38,6 @@ Click on any project title to explore its code, documentation, and results in mo
 
 ### 🤖 [CycleGAN for Person Face Sketch Translation](https://github.com/Sameer-TahirM/CycleGAN-Implementation-for-Person-Face-Sketches.git)
 
-### 🧩 [Colorization of Black and White Images Using ResNet, UNet, and Pix2Pix GAN](https://github.com/Sameer-TahirM/Colorization_of_Black-White_Images-main.git)
+
 
 
