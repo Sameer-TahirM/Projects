@@ -9,3 +9,11 @@ Click on any project title to explore its code, documentation, and results in mo
 ## 🚀 Featured Projects
 
 ### 🤖 [Automating Hidden Object Games with Object Detection](https://github.com/Sameer-TahirM/Automating-Hidden-Object-Games-with-Object-Detection.git)
+
+### 🧩 [SIFT Panorama & Hough Transform Chess Game](https://github.com/Sameer-TahirM/Image-Stitching-using-SIFT-on-COIL-20-Dataset.git)
+
+### 🚀 [Urdu Text Summarizer using TextRank](https://github.com/Sameer-TahirM/Urdu-Text-Summerization-using-Unsupervised-Techniques.git)
+
+### 🤖 [WebScarping-PoetryGeneration](https://github.com/Sameer-TahirM/WebScarping-PoetryGeneration.git)
+
+### 🧩 
