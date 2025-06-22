@@ -16,4 +16,13 @@ Click on any project title to explore its code, documentation, and results in mo
 
 ### 🤖 [WebScarping-PoetryGeneration](https://github.com/Sameer-TahirM/WebScarping-PoetryGeneration.git)
 
-### 🧩 
+### 🧩 [Rule-Based Urdu Sentence Segmentation](https://github.com/Sameer-TahirM/Sentence-Segmentation-in-Urdu.git)
+
+
+
+### 🤖 [Daraz Web Scraper using Selenium](https://github.com/Sameer-TahirM/Web-Scraping-using-Selenium.git)
+
+### 🧩 [Multi-Model Meme Sentiment Classification](https://github.com/Sameer-TahirM/Multi-Model-Meme-Classification-System.git)
+
+### 🚀 [Word Completion Using LSTM](https://github.com/Sameer-TahirM/Word-Completion-Using-LSTM.git)
+
