@@ -32,3 +32,10 @@ Click on any project title to explore its code, documentation, and results in mo
 ### 🧩 [CIFAR-10 Image Classification with ViT, ResNet, and CNN-MLP Hybrid](https://github.com/Sameer-TahirM/Vision-Transformer-for-CIFAR-10-Image-Classification.git)
 
 ### 🚀 [Transformer Implementation for Machine Translation](https://github.com/Sameer-TahirM/Transformer-Implementation-for-Machine-Translation.git)
+
+
+### 🤖 [CycleGAN for Person Face Sketch Translation](https://github.com/Sameer-TahirM/CycleGAN-Implementation-for-Person-Face-Sketches.git)
+
+### 🧩 [Colorization of Black and White Images Using ResNet, UNet, and Pix2Pix GAN](https://github.com/Sameer-TahirM/Colorization_of_Black-White_Images-main.git)
+
+
