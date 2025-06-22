@@ -19,10 +19,16 @@ Click on any project title to explore its code, documentation, and results in mo
 ### 🧩 [Rule-Based Urdu Sentence Segmentation](https://github.com/Sameer-TahirM/Sentence-Segmentation-in-Urdu.git)
 
 
-
 ### 🤖 [Daraz Web Scraper using Selenium](https://github.com/Sameer-TahirM/Web-Scraping-using-Selenium.git)
 
 ### 🧩 [Multi-Model Meme Sentiment Classification](https://github.com/Sameer-TahirM/Multi-Model-Meme-Classification-System.git)
 
 ### 🚀 [Word Completion Using LSTM](https://github.com/Sameer-TahirM/Word-Completion-Using-LSTM.git)
 
+
+
+### 🤖 [Neural Network from Scratch with NumPy](https://github.com/Sameer-TahirM/Multi-layer-Neural-Network-from-Scratch.git)
+
+### 🧩 [CIFAR-10 Image Classification with ViT, ResNet, and CNN-MLP Hybrid](https://github.com/Sameer-TahirM/Vision-Transformer-for-CIFAR-10-Image-Classification.git)
+
+### 🚀 [Transformer Implementation for Machine Translation](https://github.com/Sameer-TahirM/Transformer-Implementation-for-Machine-Translation.git)
